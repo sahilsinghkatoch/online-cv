@@ -13,13 +13,13 @@ sidebar:
 
     # Sidebar links
     email: sahilsinghkatoch2@gmail.com
-    phone: +91-8892602490
+    phone: +1-647-321-6470
     citizenship:
     website: blog.sahil.com #do not add http://
     linkedin: sahilsinghkatoch
     xing: #ToDo
     github: sahilsinghkatoch
-    telegram: sahilsinghkatoch # add your nickname without '@' sign
+    telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
     twitter: '@sahilsinghkatoch'
@@ -32,17 +32,17 @@ sidebar:
       - idiom: Hindi
         level: Native
 
-      - idiom: French
+      - idiom: English
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Hiking
         link:
 
-      - item: Snowboarding
+      - item: Cricket
         link:
 
-      - item: Cooking
+      - item: Running
         link:
 
 career-profile:
@@ -166,14 +166,14 @@ skills:
       - name: Microservices
         level: 98%
 
-      - name: JSP
-        level: 95%
+      - name: React
+        level: 80%
 
       - name: AWS/GCP
         level: 85%
 
       - name: Maven
-        level: 80%
+        level: 85%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by Katoch
